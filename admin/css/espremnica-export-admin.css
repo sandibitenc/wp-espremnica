@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.espremnica table, .espremnica th, .espremnica td {
+     border: 1px solid #333;
+     border-collapse: collapse;
+}
+.espremnica td {
+    padding: 3px 10px;
+}
+.espremnica-csv-upload {
+    border: 1px solid #333;
+    padding: 20px;
+    margin-top: 50px;
+    max-width: 500px;
+}
